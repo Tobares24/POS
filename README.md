@@ -22,7 +22,7 @@ Bienvenido al repositorio del Sistema de Punto de Venta (POS). Esta solución in
 
 ## Instrucciones de Instalación
 
-1. **Clonar el Repositorio:** `git clone https://github.com/tuusuario/pos-system.git`
+1. **Clonar el Repositorio:** `https://github.com/Tobares24/POS.git`
 2. **Instalar Dependencias:** Ejecuta `npm install` para instalar todas las dependencias necesarias.
 3. **Configuración:** Ajusta la configuración de la base de datos y otros parámetros en el archivo correspondiente.
 4. **Iniciar la Aplicación:** Ejecuta `npm start` para poner en marcha la aplicación.
