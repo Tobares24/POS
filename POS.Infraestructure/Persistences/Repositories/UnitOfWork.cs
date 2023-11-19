@@ -1,4 +1,4 @@
-﻿using POS.Domain.Entities;
+﻿using POS.Infraestructure.Persistences.Context;
 using POS.Infraestructure.Persistences.Interfaces;
 
 namespace POS.Infraestructure.Persistences.Repositories
