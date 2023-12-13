@@ -1,4 +1,4 @@
-# Sistema de Punto de Venta (POS)
+# Sistema de Punto de Venta (POS) - (En proceso)
 
 ## Descripción
 
